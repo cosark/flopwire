@@ -160,6 +160,10 @@ options and running two machines on a LAN, is in
 [docs/two-laptop.md](docs/two-laptop.md). Operations are in
 [docs/runbook.md](docs/runbook.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Flopwire/)
+
 ## Trust model
 
 - A message from another person's agent is held until you accept that
